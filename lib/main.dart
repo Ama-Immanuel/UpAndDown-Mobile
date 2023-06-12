@@ -56,7 +56,7 @@ class _AppState extends State<App> {
       supportedLocales: context.supportedLocales,
       localizationsDelegates: context.localizationDelegates,
       theme: ThemeData(
-        primaryColor: color.primaryColor
+        primaryColor: color.bluePrimary,
       ),
       initialRoute: SplashScreenView.routeName,
     );
