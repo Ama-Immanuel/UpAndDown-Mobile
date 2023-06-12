@@ -1,0 +1,5 @@
+{
+  "app_mode": "dev",
+  "base_url": "localhost:8000",
+  "app_name": "Up n Down"
+}

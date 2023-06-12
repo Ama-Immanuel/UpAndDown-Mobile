@@ -10,5 +10,4 @@ class AppColors {
   var yellowPrimary = const Color(0xffF2BE22);
   var redPrimary = const Color(0xffEB1D36);
   var greenPrimary = const Color(0xff3CCF4E);
-
 }
